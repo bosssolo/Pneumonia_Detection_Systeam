@@ -1,7 +1,0 @@
-streamlit
-pandas
-scikit-learn
-matplotlib
-numpy
-tensorflow==2.15.0
-PIL
